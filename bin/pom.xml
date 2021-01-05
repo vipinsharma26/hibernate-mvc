@@ -9,7 +9,7 @@
 		<version>2.3.5.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.app.propertytaxapplication</groupId>
+	<groupId>com.mindtree.propertytaxapplication</groupId>
 	<artifactId>PropertyTax</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
